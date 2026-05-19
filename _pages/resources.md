@@ -14,11 +14,11 @@ A curated collection of open-source tools, code implementations, and benchmark s
 
 ## Platforms
 
-Comprehensive frameworks for LLM-based automatic algorithm design.
+Comprehensive frameworks for LLM-based automated algorithm design.
 
 | Platform | Description | Link |
 |----------|-------------|------|
-| **LLM4AD** | Open-source Python platform for Automatic Algorithm Design with 100+ tasks and 10+ methods, developed by CityU OPTIMA Group. | [GitHub](https://github.com/Optima-CityU/LLM4AD) |
+| **LLM4AD** | Open-source Python platform for Automated Algorithm Design with 100+ tasks and 10+ methods, developed by CityU OPTIMA Group. | [GitHub](https://github.com/Optima-CityU/LLM4AD) |
 | **BLADE** | Benchmark suite for LLM-driven Automated Design and Evolution of iterative optimisation heuristics, developed at LIACS, Leiden University. | [GitHub](https://github.com/XAI-liacs/BLADE) |
 | **EASE** | Effortless Algorithmic Solution Evolution — a flexible framework leveraging LLMs to generate solutions (algorithms, text, images) based on user-defined parameters. | [GitHub](https://github.com/TBU-AILab/EASE) |
 
