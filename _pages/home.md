@@ -20,6 +20,8 @@ author_profile: false
 
 ## News & Highlights
 
+- **LLM4AD_Next Platform Released** — Next-generation LLM-driven algorithm design platform with natural-language interface, automated code analysis, real-time evolution visualization, and modular components. Covers symbolic regression, combinatorial optimization, RL, and more. [GitHub](https://github.com/Optima-CityU/LLM4AD_Next) · [Online Demo](http://8.163.71.37/)
+
 - **AIDDA 2026 Conference** — Two-day virtual conference on AI-Driven Algorithm Discovery, featuring AlgoTune, CodeEvolve, SkyDiscover, TTT-Discover, and more. June 9–10, Online. [Details](https://luma.com/AIDDA2026)
 
 - **Dagstuhl Seminar 26191** — "Large Language Models for Evolutionary Computation" brings together leading researchers at Dagstuhl. [Details](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/26191) (2026)

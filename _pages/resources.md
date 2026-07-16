@@ -19,6 +19,7 @@ Comprehensive frameworks for LLM-based automated algorithm design.
 | Platform | Description | Link |
 |----------|-------------|------|
 | **LLM4AD** | Open-source Python platform for Automated Algorithm Design with 100+ tasks and 10+ methods, developed by CityU OPTIMA Group. | [GitHub](https://github.com/Optima-CityU/LLM4AD) |
+| **LLM4AD_Next** | Next-generation LLM-driven algorithm design platform with natural-language interface, automated code analysis, real-time evolution visualization, and modular components. Supports symbolic regression, combinatorial optimization, RL, and more. | [GitHub](https://github.com/Optima-CityU/LLM4AD_Next) · [Online](http://8.163.71.37/) |
 | **BLADE** | Benchmark suite for LLM-driven Automated Design and Evolution of iterative optimisation heuristics, developed at LIACS, Leiden University. | [GitHub](https://github.com/XAI-liacs/BLADE) |
 | **EASE** | Effortless Algorithmic Solution Evolution — a flexible framework leveraging LLMs to generate solutions (algorithms, text, images) based on user-defined parameters. | [GitHub](https://github.com/TBU-AILab/EASE) |
 
@@ -32,6 +33,7 @@ Open-source implementations of key methods, organized by research paradigm.
 
 | Method | Venue | Description | Link |
 |--------|-------|-------------|------|
+| **LLM4AD_Next** | — | Next-gen LLM-driven algorithm design platform. Natural-language interface, automated code analysis, real-time evolution visualization, modular components. Covers symbolic regression, combinatorial optimization (TSP/CVRP), RL, and more. CVRPLib BKS Challenge champion (2026). | [GitHub](https://github.com/Optima-CityU/LLM4AD_Next) · [Online](http://8.163.71.37/) |
 | **EoH** | ICML 2024 (Oral) | Evolution of Heuristics — LLM-driven automatic heuristic design via evolutionary search | [GitHub](https://github.com/FeiLiu36/EoH) |
 | **FunSearch** | Nature 2023 | Mathematical discovery via program search with LLMs and evolutionary algorithms | [GitHub](https://github.com/google-deepmind/funsearch) |
 | **Eureka** | ICLR 2024 | Human-level reward design for reinforcement learning via coding LLMs | [GitHub](https://github.com/eureka-research/Eureka) |
@@ -83,3 +85,16 @@ Open-source implementations of key methods, organized by research paradigm.
 
 - **LLM4AD Survey Introduction** (Chinese / 中文) — Bilibili  
   [Watch](https://www.bilibili.com/video/BV1XTJVz9Ew1)
+
+---
+
+## Blog Posts
+
+- **LLM4AD_Next 开源平台发布："设计算法？我们只需要一句话"** — Platform launch announcement with feature overview.  
+  [Read](https://mp.weixin.qq.com/s/3Iqb6hN06wNRXfMGwJyZiQ)
+
+- **【探索 LLM4AD_Next】No.1｜从科学数据中发现数学公式** — Symbolic regression tutorial with CST-LLM and AutoTurb case studies.  
+  [Read](https://mp.weixin.qq.com/s/GZ-kfScXzpJZT1dE-6HIzg)
+
+- **【探索 LLM4AD_Next】No.2｜组合优化启发式算法设计** — Combinatorial optimization (TSP/CVRP) tutorial with CVRPLib champion story.  
+  [Read](https://mp.weixin.qq.com/s/gLlkIpWE1ZHo_2EBM6K8hw)
