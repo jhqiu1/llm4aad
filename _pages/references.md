@@ -40,7 +40,7 @@ A comprehensive bibliography at the intersection of **Large Language Models** an
 *LLMs autonomously design novel algorithms, heuristics, evolutionary operators, and reward functions.*
 
 <details open markdown="1">
-<summary><strong>2025</strong> (42 papers)</summary>
+<summary><strong>2025</strong> (44 papers)</summary>
 
 1. **Combining Large Language Models and Gradient-Free Optimization for Automatic Control Policy Synthesis**  
    Carlo Bosio, Matteo Guarrera, Alberto Sangiovanni-Vincentelli, Mark W. Mueller  
@@ -287,10 +287,20 @@ A comprehensive bibliography at the intersection of **Large Language Models** an
     *Stanford / NVIDIA / Together AI*, 2025  
     📄 [PDF](https://arxiv.org/abs/2601.16175) · 💻 [Code](https://github.com/test-time-training/discover)
 
+51. **Autonomous Multi-Objective Optimization Using Large Language Model**  
+    Yuxiao Huang, Shenghao Wu, Wenjie Zhang, Jibin Wu, Liang Feng, Kay Chen Tan  
+    *IEEE Transactions on Evolutionary Computation*, 2025  
+    📄 [PDF](https://arxiv.org/abs/2406.08987)
+
+52. **Evaluation of Large Language Models as Solution Generators in Complex Optimization**  
+    Beichen Huang, Xingyu Wu, Yu Zhou, Jibin Wu, Liang Feng, Ran Cheng, Kay Chen Tan  
+    *IEEE Computational Intelligence Magazine*, vol. 20, no. 4, pp. 56–70, 2025  
+    📄 [PDF](https://ieeexplore.ieee.org/abstract/document/10767756)
+
 </details>
 
 <details markdown="1">
-<summary><strong>2024</strong> (29 papers)</summary>
+<summary><strong>2024</strong> (30 papers)</summary>
 
 45. **Automated Design of Agentic Systems**  
     Shengran Hu, Cong Lu, Jeff Clune  
@@ -479,6 +489,11 @@ A comprehensive bibliography at the intersection of **Large Language Models** an
     Songhao Wu, Quan Tu, Hong Liu, Jia Xu, Zhongyi Liu, Guannan Zhang, Ran Wang, Xiuying Chen, Rui Yan  
     *Proceedings of the ACM Web Conference (WWW)*, 2024  
     📄 [PDF](https://dl.acm.org/doi/abs/10.1145/3589334.3645574)
+
+83. **Towards Next Era of Multi-Objective Optimization: Large Language Models as Architects of Evolutionary Operators**  
+    Yuxiao Huang, Shenghao Wu, Wenjie Zhang, Jibin Wu, Liang Feng, Kay Chen Tan  
+    *arXiv*, 2024  
+    📄 [PDF](https://arxiv.org/abs/2406.08987)
 
 </details>
 
@@ -895,8 +910,9 @@ A comprehensive bibliography at the intersection of **Large Language Models** an
    📄 [PDF](https://arxiv.org/abs/2410.14716)
 
 2. **Evolutionary Computation in the Era of Large Language Model: Survey and Roadmap**  
-   *arXiv*, January 2024  
-   📄 [PDF](https://arxiv.org/abs/2401.10034)
+   Xingyu Wu, Sheng-hao Wu, Jibin Wu, Liang Feng, Kay Chen Tan  
+   *IEEE Transactions on Evolutionary Computation*, vol. 29, no. 2, pp. 534–554, 2024  
+   📄 [PDF](https://ieeexplore.ieee.org/abstract/document/10767756)
 
 3. **A Survey of Neural Code Intelligence: Paradigms, Advances and Beyond**  
    *arXiv*, March 2024  
@@ -921,3 +937,8 @@ A comprehensive bibliography at the intersection of **Large Language Models** an
 8. **Large Language Model-Assisted Surrogate Modelling for Engineering Optimization**  
    *IEEE CAI*, 2024  
    📄 [PDF](https://ieeecai.org/2024/wp-content/pdfs/540900a807/540900a807.pdf)
+
+9. **A Systematic Survey on Large Language Models for Evolutionary Optimization: From Modeling to Solving**  
+   Yisong Zhang, Ran Cheng, Guoxing Yi, Kay Chen Tan  
+   *arXiv*, 2025  
+   📄 [PDF](https://arxiv.org/abs/2509.08269)
