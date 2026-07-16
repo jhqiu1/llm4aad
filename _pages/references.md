@@ -900,6 +900,16 @@ A comprehensive bibliography at the intersection of **Large Language Models** an
 
 </details>
 
+<details open markdown="1">
+<summary><strong>2026</strong> (1 benchmark)</summary>
+
+4. **FrontierOR: Benchmarking LLMs' Capacity for Efficient Algorithm Design in Large-Scale Optimization**  
+   Minwei Kong, Chonghe Jiang, Ao Qu, Wenbin Ouyang, Zhaoming Zeng, Xiaotong Guo, Zhekai Li, Junyi Li, Yi Fan, Xinshou Zheng, Hanzhang Qin et al.  
+   *arXiv*, 2026  
+   📄 [PDF](https://arxiv.org/abs/2605.25246) · 💻 [Code](https://github.com/Minw913/FrontierOR) · 🌐 [Website](https://frontieror.vercel.app/)
+
+</details>
+
 ---
 
 ## Reviews, Surveys & Position Papers {#reviews}
