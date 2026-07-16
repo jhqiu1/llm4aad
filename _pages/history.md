@@ -304,7 +304,7 @@ A chronological timeline of key milestones in LLM-driven algorithm design, from 
   <div class="tl-card">
     <strong>AEL: Algorithm Evolution using Large Language Model</strong><br>
     Fei Liu, Xialiang Tong, Mingxuan Yuan, Qingfu Zhang — Pioneering work that formulates heuristic design as an evolutionary search problem in code space using LLMs.
-    <br><span class="tl-meta">arXiv 2023 · 📄 <a href="https://arxiv.org/abs/2308.12345">PDF</a> · 💻 <a href="https://github.com/FeiLiu36/eoh">Code</a></span>
+    <br><span class="tl-meta">arXiv 2023 · 📄 <a href="https://arxiv.org/abs/2311.15249">PDF</a> · 💻 <a href="https://github.com/FeiLiu36/eoh">Code</a></span>
   </div>
 </div>
 
