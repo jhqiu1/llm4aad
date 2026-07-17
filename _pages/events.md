@@ -42,6 +42,14 @@ A curated calendar of academic activities — workshops, tutorials, competitions
 - **AIMO Prize** — Ongoing  
   [Website](https://aimoprize.com/)
 
+- **IJCAI 2026 Tutorial**: LLMs for Optimization: From Automated Modeling to Algorithmic Discovery — August 15–17, 2026, Bremen, Germany  
+  A half-day tutorial covering LLM-assisted optimization modeling, solver configuration, and algorithmic discovery.  
+  [Website](https://feiliu36.github.io/llm_opt_tutorial_ijcai2026/) · Organized by Stanford, UZH/ETH, NUS
+
+- **IJCAI 2026 Workshop**: Learning-assisted Algorithm Design (IJCAI-LEAD 2026) — August 15–17, 2026, Bremen, Germany  
+  The first international workshop unifying L2O, NCO, DDEA, MetaBBO, and LLM4AD communities.  
+  [Website](https://sites.google.com/view/lead-ijcai-ecai2026)
+
 ---
 
 ## Past Events

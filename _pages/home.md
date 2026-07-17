@@ -32,8 +32,6 @@ author_profile: false
 
 - **IEEE CAI 2026 Workshop** — "Bridging Evolutionary Computing and Large Language Models (BEComLLM)." [Website](https://www.ieeesmc.org/cai-2026/w5-becomllm/)
 
-- **GECCO 2025: Inaugural LLM-Designed EA Competition** — First competition for automatically designing evolutionary algorithms using LLMs. [Website](https://gecco-2025.sigevo.org/Competition?itemId=5104)
+- **IJCAI 2026 Workshop: Learning-assisted Algorithm Design (LEAD)** — The first international workshop on Learning-assisted Algorithm Design, covering L2O, NCO, DDEA, MetaBBO, and LLM4AD. Aims to unify the LEAD community. [Website](https://sites.google.com/view/lead-ijcai-ecai2026)
 
-- **IEEE TEVC Special Issue** — "Evolutionary Computation Meets Large Language Models." [CFP](https://cis.ieee.org/images/files/Documents/call-for-papers/tevc/cfp-ECLLMs-26august2024.pdf)
-
-- **ACM TELO Special Issue** — "Integrating Evolutionary Algorithms and Large Language Models." [CFP](https://dl.acm.org/pb-assets/static_journal_pages/telo/pdf/ACM-CFP-TELO-LLMs-EAs-1717612765163.pdf)
+- **IJCAI 2026 Tutorial: LLMs for Optimization** — A half-day tutorial surveying how LLMs are reshaping mathematical optimization, from automated modeling to algorithmic discovery. Organizers: Stanford, UZH/ETH, NUS. [Website](https://feiliu36.github.io/llm_opt_tutorial_ijcai2026/)
